@@ -1,0 +1,13 @@
+div.tabs-panels{
+    padding: 15px;
+}
+
+div.window{
+	position: relative;
+	top: 100px !important;
+}
+
+div.window-shadow{
+	position: relative;
+	top: 100px !important;
+}

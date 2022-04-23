@@ -1,0 +1,25 @@
+<ul id="menu" class="easyui-tree">
+    <li>
+        <span>Master</span>
+        <ul>
+            <li><span>Users</span></li>
+            <li><span>Supplier</span></li>
+        </ul>
+    </li>
+    <li>
+        <span>Inventory</span>
+        <ul>
+            <li><span>Inventory</span></li>
+        </ul>
+    </li>
+    <li>
+        <span>Order</span>
+        <ul>
+            <li>
+            	<span>
+	            	Order
+	            </span>
+        	</li>
+        </ul>
+    </li>
+</ul>
